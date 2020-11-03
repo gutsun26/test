@@ -1,0 +1,8 @@
+Important files for all the projects
+1) uc.h
+2) sys_hw.h
+3) scan_keys.h
+4) scan_inputs.h
+5) outputs.h - for refreshing outputs
+
+===================================
